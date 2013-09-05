@@ -1,0 +1,20 @@
+{
+  "name": "consoleta",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yaniv Kessler",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "~1.5.2",
+    "rc": "~0.3.1"
+  },
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-bower-task": "~0.3.1"
+  }
+}
